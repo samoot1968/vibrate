@@ -30,9 +30,6 @@ public class MainActivity extends ActionBarActivity {
         TextView textView = (TextView)findViewById(R.id.textView2);
         textView.setText(coin[randRange(0,1)]);
 
-
-
-
     }
 
     @Override
